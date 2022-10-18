@@ -45,17 +45,17 @@ public class Sample extends AppCompatActivity {
         String str = intent.getStringExtra("setView");
 
         if(str.equals("alpha")) {
-            setContentView(R.layout.alpha);
+            setContentView(R.layout.alpha2);
             penColor = Color.parseColor("#AA336A");
             category = "alphabet";
         }
         else if(str.equals("shape")) {
-            setContentView(R.layout.shapes);
+            setContentView(R.layout.shapes2);
             penColor = Color.parseColor("#00008B");
             category = "shape";
         }
         else if(str.equals("digit")) {
-            setContentView(R.layout.digit);
+            setContentView(R.layout.digit2);
             penColor = Color.parseColor("#006400");
             category = "digit";
         }
