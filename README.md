@@ -12,7 +12,7 @@ which include circle, triangle, rectangle, star and heart.
 
 ### What's its use?
 ```
-It can be used to teach about alphabet, digit and some basic shape to kids. 
+It can be used to teach alphabet, digit and some basic shape to kids. 
 ```
 
 ### Pros and Cons
