@@ -15,15 +15,14 @@ which include circle, triangle, rectangle, star and heart.
 It can be used to teach alphabet, digit and some basic shape to kids. 
 ```
 
-### Pros and Cons
+### Features:
 ```
-Pros: 
 1. Makes those basic slate and chalk obsolete.
 2. Builtin TextToSpeech system will speak out the content drawn on the canvas.
 3. The AI working behind the application gives hint of its confidence level in identifying the content drawn on the canvas.
-
-Cons: 
-1. The deep learning models aren't strong enough to handle multiple variations of same content.
-2. The training dataset fed to the model is not of the highest quality.
+```
+### Future upgrades: 
+```
+1. To enchance the deep learning models to handle multiple variation of the same content drawn on canvas.
 ```
 
