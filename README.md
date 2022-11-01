@@ -17,12 +17,12 @@ It can be used to teach alphabet, digit and some basic shape to kids.
 
 ### Features:
 ```
-1. Makes those basic slate and chalk obsolete.
+1. An effort to replicate the slate and chalk combination.
 2. Builtin TextToSpeech system will speak out the content drawn on the canvas.
 3. The AI working behind the application gives hint of its confidence level in identifying the content drawn on the canvas.
 ```
-### Future upgrades: 
+### Drawbacks: 
 ```
-1. To enchance the deep learning models to handle multiple variation of the same content drawn on canvas.
+1. The deep learning model isn't strong enough to detect excessively varied content.
 ```
 
